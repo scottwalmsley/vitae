@@ -1,0 +1,8 @@
+intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+projects:
+  - project:
+    title: MetMatch
+    link: "#hook"
+    tagline: "An algorithm for rapid Isotope distribution to Lewis formula matching."
+ 

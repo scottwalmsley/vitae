@@ -1,0 +1,43 @@
+intro: ""
+publications:
+  - paper:
+    title: "A prototypic small molecule database for bronchoalveolar lavage-based metabolomics."
+    authors: Walmsley S, Cruickshank-Quinn C, Quinn K, Zhang X, Petrache I, Bowler RP, Reisdorph R, Reisdorph N.
+    conference: Scientific data. 2018; 5:180060.
+  - paper:
+    title: "Performance of a High-Pressure Liquid Chromatography-Ion Mobility-Mass Spectrometry System for Metabolic Profiling."
+    authors: Zhang X, Kew K, Reisdorph R, Sartain M, Powell R, Armstrong M, Quinn K, Cruickshank-Quinn C, Walmsley S, Bokatzian S, Darland E, Rain M, Imatani K, Reisdorph N.
+    conference: Analytical chemistry. 2017; 89(12):6384-6391.
+  - paper:
+    title: "Customized Consensus Spectral Library Building for Untargeted Quantitative Metabolomics Analysis with Data Independent Acquisition Mass Spectrometry and MetaboDIA Workflow."
+    authors: Chen G, Walmsley S, Cheung GCM, Chen L, Cheng CY, Beuerman RW, Wong TY, Zhou L, Choi H.
+    conference: Analytical chemistry. 2017; 89(9):4897-4906.
+  - paper:
+    title: "Comprehensive analysis of protein digestion using six trypsins reveals the origin of trypsin as a significant source of variability in proteomics."
+    authors: Walmsley SJ, Rudnick PA, Liang Y, Dong Q, Stein SE, Nesvizhskii AI.
+    conference: "Journal of proteome research. 2013; 12(12):5666-80."
+  - paper:
+    title: "LuciPHOr: algorithm for phosphorylation site localization with false localization rate estimation using modified target-decoy approach."
+    authors: Fermin D, Walmsley SJ, Gingras AC, Choi H, Nesvizhskii AI.
+    conference: "Molecular & cellular proteomics : MCP. 2013; 12(11):3409-19."
+  - paper:
+    title: "Proteomic profiling of the effect of metabolic acidosis on the apical membrane of the proximal convoluted tubule."
+    authors: Walmsley SJ, Freund DM, Curthoys NP.
+    conference: "American journal of physiology. Renal physiology. 2012; 302(11):F1465-77."
+  - paper:
+    title: "Proteomic analysis of brush-border membrane vesicles isolated from purified proximal convoluted tubules."
+    authors: Walmsley SJ, Broeckling C, Hess A, Prenni J, Curthoys NP.
+    conference: American journal of physiology. Renal physiology. 2010; 298(6):F1323-31.
+  - paper:
+    title: "Identification of serum biomarkers for canine B-cell lymphoma by use of surface-enhanced laser desorption-ionization time-of-flight mass spectrometry."
+    authors: Gaines PJ, Powell TD, Walmsley SJ, Estredge KL, Wisnewski N, Stinchcomb DT, Withrow SJ, Lana SE.
+    conference: American journal of veterinary research. 2007; 68(4):405-10.
+  - paper:
+    title: "Identification of two cDNAs encoding synaptic vesicle protein 2 (SV2)-like proteins from epithelial tissues in the cat flea, Ctenocephalides felis."
+    authors: Walmsley SJ, Gaines PJ.
+    conference: Insect molecular biology. 2004; 13(3):225-30
+  - paper:
+    title: "Cloning and characterization of five cDNAs encoding peritrophin-A domains from the cat flea, Ctenocephalides felis."
+    authors: Gaines PJ, Walmsley SJ, Wisnewski N.
+    conference: Insect biochemistry and molecular biology. 2003; 33(11):1061-73.
+    

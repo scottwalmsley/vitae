@@ -1,0 +1,30 @@
+- experience:
+  role: Scientist - Research Instructor
+  time: 2015 - 2018
+  company: UC Denver-Anschutz, Aurora, Colorado
+  details: "Lead developer for computational framework to assemble sample specific databases using metabolomics mass spectrometry data. Biomarker discovery using informatics workflows for elucidating the varied treatment response of asthmatic children using metabolomics. Lectures in UCD Comp. Bio. Program core classes and metabolomics workshops."
+- experience:
+  role: Scientist - Instructor
+  time: 2014 - 2015
+  company: National Jewish Hospital, Denver, Colorado
+  details: "Lead developer for computational framework to assemble sample specific databases.  Lab transfered to UCD for continuing work."
+- experience:
+  role: Postdoctoral Research Fellow
+  time: 2011 - 2014
+  company: University of Michigan Medical School, Ann Arbor, Michigan
+  details: "Analyzed trypsin digestion efficiencies through mass spectrometry data. Developed Java program to analyze NIST MS data."
+- experience:
+  role: Graduate Research Assistant
+  time: 2006-2011
+  company: Colorado State University, Fort Collins, CO
+  details: "Body of dissertation work completed profiling the renal response to metabolomic acidosis using mass spectrometry based proteomics.  Teached biochemistry laboratories to undergraduates."
+- experience:
+  role: Science Technologist
+  time: 1998-2006
+  company: Heska Corporation, Loveland, CO
+  details: "ELISA development, serum biomarker profiling and flea insectiside target identification and expression for molceular and biological contact assay."
+- experience:
+  role: Research Assistant
+  time: 1997-1998
+  company: Colorado State University, Dept. of Molecular Biology and Biochemistry, Fort Collins, CO
+  details: "DNA transcription factor footprinting using manual sequencing techniques.  TFIIa affinity purification from Acanthamoeba."

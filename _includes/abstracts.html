@@ -1,0 +1,21 @@
+{% if site.data.abstracts %}
+<section class="section publications-section">
+
+  <h2 class="section-title"><i class="fa fa-file-text"></i>Abstracts</h2>
+
+  {% if site.data.abstracts.intro %}
+  <div class="intro">
+      <p>{{ site.data.abstracts.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for abstract in site.data.abstracts.abstracts %}
+    <div class="item">
+      <div class="publication-title">{{ abstract.title }}</div>
+      <div class="publication-authors">{{ abstract.authors }}</div>
+      <div class="publication-conference">{{ abstract.conference }}</div>
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
