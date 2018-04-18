@@ -1,0 +1,34 @@
+intro: ""
+abstracts:
+  - paper:
+    title: "Rapid MS1 Formulae to Isotope Pattern Matching Using a Novel MS1 Search Engine for Metabolomics"
+    authors: Scott Walmsley*, Nichole Samantha Bokatzian, Hyungwon Choi, Richard Reisdorph, Nichole Reisdorph
+    conference: American Society For Mass Spectrometry, San Antonio,Texas, June 2016.
+  - paper:
+    title: "A Novel Method for Theoretically Determining the Success Rate of Identification by MS1 Using a Human Metabolome Database"
+    authors: Scott Walmsley*, Nichole Reisdorph
+    conference: American Society For Mass Spectrometry, St Louis Missouri, June 2015.
+  - paper:
+    title: "Kinetic Evaluation of Trypsin Digests of Apolipoprotein-A1: Implications for Quantitative Mass Spectrometry."
+    authors: Scott Walmsley*, Xinjian Yan,Yuxue Liang, Stephen Stein, Alexey Nesvizhskii
+    conference: US Human Proteome Organization annual meeting; Seattle, Washington, April 6-9, 2014.
+  - paper:
+    title: "Analysis of Peptide Ion Signatures for Characterization of Porcine and Bovine Trypsin Digestion."
+    authors: Scott Walmsley*, Paul Rudnick, Yuxue Liang, Steve Stein and Alexey Nesvizhskii.
+    conference: "Mass Spectrometry: Applications to the Clinical Lab; San Diego, California,  February 9-13, 2013."
+  - paper:
+    title: "THOR: an Algorithm for Determining the Minimal Variance Cutoff in Proteomics Spectral Count Data."
+    authors: Scott Walmsley* and Norman Curthoys
+    conference: American Society For Mass Spectrometry; Denver, CO, June 2011.
+  - paper:
+    title: "Use of Spectral Counting and AMT to Quantify changes in Renal Proximal Convoluted Tubules During Metabolic Acidosis."
+    authors: Scott Walmsley*, Nichole Reisdorph
+    conference: American Society For Mass Spectrometry; St Louis Missouri, June 2015.
+  - paper:
+    title: "Evaluation of LCMS QTOF and AMT Technologies for the Quantitative Analysis of the Response to Metabolic Acidosis by the Proximal Convoluted Tubule Brush Border Membrane."
+    authors: Scott Walmsley* and Norman Curthoys
+    conference: Colorado Biological Mass Spectrometry Society Summer Meeting; Boulder Colorado, August, 2010.
+  - paper:
+    title: "Improving the Value of Corn Proteins Via Reforming with Anaerobic Bacteria."
+    authors: Tim Eggeman*, Dan Verser, Shirley Hunter, Scott Walmsley
+    conference: 28th Symposium on Biotechnology for Fuels and Chemicals; Nashville Tennessee, May, 2006.
