@@ -1,6 +1,6 @@
 # Site Settings
 title: Scott Walmsley, PhD
-url: 'https://scottwalmsley.github.io'
+url: 'http://scottwalmsley.github.io'
 baseurl: '/vitae' #change it according to your repository name
 about: True # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
