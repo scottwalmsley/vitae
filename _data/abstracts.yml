@@ -17,6 +17,10 @@ abstracts:
     authors: Scott Walmsley*, Paul Rudnick, Yuxue Liang, Steve Stein and Alexey Nesvizhskii.
     conference: "Mass Spectrometry: Applications to the Clinical Lab; San Diego, California,  February 9-13, 2013."
   - paper:
+    title: "Evaluation of Different Porcine and Bovine Trypsins Yield Different Cleavage Results."
+    authors: Scott Walmsley*,Paul Rudnick, Yuxue Liang, Steve Stein and Alexey Nesvizhskii
+    conference: American Society For Mass Spectrometry,  Vancouver, British Columbia,  June  2012.
+  - paper:
     title: "THOR: an Algorithm for Determining the Minimal Variance Cutoff in Proteomics Spectral Count Data."
     authors: Scott Walmsley* and Norman Curthoys
     conference: American Society For Mass Spectrometry; Denver, CO, June 2011.
@@ -29,6 +33,18 @@ abstracts:
     authors: Scott Walmsley* and Norman Curthoys
     conference: Colorado Biological Mass Spectrometry Society Summer Meeting; Boulder Colorado, August, 2010.
   - paper:
+    title: "Reducing Tissue Heterogeneity for the Specific Proteomic Analysis of Proximal Convoluted Tubule Apical Membranes."
+    authors: Scott Walmsley*, Corey Broeckling, Jessica Prenni, Norman Curthoys
+    conference: ;  American Society For Mass Spectrometry;  Philadelphia Pennsylvania, June 2009.
+  - paper:
     title: "Improving the Value of Corn Proteins Via Reforming with Anaerobic Bacteria."
     authors: Tim Eggeman*, Dan Verser, Shirley Hunter, Scott Walmsley
     conference: 28th Symposium on Biotechnology for Fuels and Chemicals; Nashville Tennessee, May, 2006.
+  - paper:
+    title: "Cloning and characterization of a family of peritrophin-like cDNAs from the cat flea, Ctenocephalides felis."
+    authors: Pat Gaines*, Scott Walmsley, Kevin Brandt, Nancy Wisnewski
+    conference: Entomological Society of America Annual Meeting; Montreal, Canada, December 3-6, 2000.
+  - paper:
+    title: "Ctenocephalides felis GABA receptor subunit Rdl: Cloning and survey of the cyclodiene resistance allele in fleas."
+    authors: Kevin Brandt*, Pat Gaines, Scott Walmsley, Gary Silver, Nancy Wisnewski
+    conference: 2000 Entomological Society of America Annual Meeting; Montreal, Canada, December 3-6, 2000.

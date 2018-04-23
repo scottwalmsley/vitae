@@ -27,3 +27,7 @@
 .ii-instructor_icon:before {
   content: "\e900";
 }
+
+.ii-presenter:before {
+	content: "\e901";
+}

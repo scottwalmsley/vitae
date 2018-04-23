@@ -1,0 +1,21 @@
+{% if site.data.presentations %}
+<section class="section publications-section">
+
+  <h2 class="section-title"><i class="ii ii-presenter"></i>Oral Presentations</h2>
+
+  {% if site.data.presentations.intro %}
+  <div class="intro">
+      <p>{{ site.data.presentations.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for presentation in site.data.presentations.presentations %}
+    <div class="item">
+      <div class="publication-title">{{ presentation.title }}</div>
+      <div class="publication-authors">{{ presentation.authors }}</div>
+      <div class="publication-conference">{{ presentation.conference }}</div>
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
