@@ -1,0 +1,29 @@
+{% if site.data.teaching %}
+<section class="section experiences-section">
+  <h2 class="section-title"><i class="ii ii-instructor_icon"></i>Teaching Experience</h2>
+
+{% for teaching in site.data.teaching %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title">{{ teaching.role }}</h3>
+        <div class="time">{{ teaching.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ teaching.company }}</div>
+
+    </div><!--//meta-->
+
+    {% if teaching.details %}
+    <div class="details">
+      <p>{{ teaching.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
