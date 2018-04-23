@@ -3,48 +3,52 @@ abstracts:
   - paper:
     title: "Rapid MS1 Formulae to Isotope Pattern Matching Using a Novel MS1 Search Engine for Metabolomics"
     authors: Scott Walmsley*, Nichole Samantha Bokatzian, Hyungwon Choi, Richard Reisdorph, Nichole Reisdorph
-    conference: American Society For Mass Spectrometry, San Antonio,Texas, June 2016.
+    conference: American Society For Mass Spectrometry, San Antonio,Texas, June 2016
   - paper:
     title: "A Novel Method for Theoretically Determining the Success Rate of Identification by MS1 Using a Human Metabolome Database"
     authors: Scott Walmsley*, Nichole Reisdorph
-    conference: American Society For Mass Spectrometry, St Louis Missouri, June 2015.
+    conference: American Society For Mass Spectrometry, St Louis Missouri, June 2015
   - paper:
-    title: "Kinetic Evaluation of Trypsin Digests of Apolipoprotein-A1: Implications for Quantitative Mass Spectrometry."
+    title: "Kinetic Evaluation of Trypsin Digests of Apolipoprotein-A1: Implications for Quantitative Mass Spectrometry"
     authors: Scott Walmsley*, Xinjian Yan,Yuxue Liang, Stephen Stein, Alexey Nesvizhskii
-    conference: US Human Proteome Organization annual meeting; Seattle, Washington, April 6-9, 2014.
+    conference: US Human Proteome Organization annual meeting; Seattle, Washington, April 6-9, 2014
   - paper:
-    title: "Analysis of Peptide Ion Signatures for Characterization of Porcine and Bovine Trypsin Digestion."
-    authors: Scott Walmsley*, Paul Rudnick, Yuxue Liang, Steve Stein and Alexey Nesvizhskii.
-    conference: "Mass Spectrometry: Applications to the Clinical Lab; San Diego, California,  February 9-13, 2013."
+    title: "Analysis of Peptide Ion Signatures for Characterization of Porcine and Bovine Trypsin Digestion"
+    authors: Scott Walmsley*, Paul Rudnick, Yuxue Liang, Steve Stein and Alexey Nesvizhskii
+    conference: "Mass Spectrometry: Applications to the Clinical Lab; San Diego, California,  February 9-13, 2013"
   - paper:
-    title: "Evaluation of Different Porcine and Bovine Trypsins Yield Different Cleavage Results."
+    title: "Mechanistic Investigations of Hydrostatic Pressure Effects on Trypsin Digestion"
+    authors: Alexander Lazarev*, Vera Gross, Alexander Ivanov, Scott Walmsley, Alexey Nesvizhskii
+    conference: "Mass Spectrometry, Applications to the Clinical Lab; San Diego, California,  February  2013"
+  - paper:
+    title: "Evaluation of Different Porcine and Bovine Trypsins Yield Different Cleavage Results"
     authors: Scott Walmsley*,Paul Rudnick, Yuxue Liang, Steve Stein and Alexey Nesvizhskii
-    conference: American Society For Mass Spectrometry,  Vancouver, British Columbia,  June  2012.
+    conference: American Society For Mass Spectrometry,  Vancouver, British Columbia,  June  2012
   - paper:
-    title: "THOR: an Algorithm for Determining the Minimal Variance Cutoff in Proteomics Spectral Count Data."
+    title: "THOR: an Algorithm for Determining the Minimal Variance Cutoff in Proteomics Spectral Count Data"
+    authors: Scott Walmsley*, Hyungwon Choi, Damian Fermin, Alexey Nesvizhskii
+    conference: American Society For Mass Spectrometry,  Minneapolis Minnesota, June 2013
+  - paper:
+    title: "Use of Spectral Counting and AMT to Quantify changes in Renal Proximal Convoluted Tubules During Metabolic Acidosis"
     authors: Scott Walmsley* and Norman Curthoys
-    conference: American Society For Mass Spectrometry; Denver, CO, June 2011.
+    conference: American Society For Mass Spectrometry; Denver, CO, June 2011
   - paper:
-    title: "Use of Spectral Counting and AMT to Quantify changes in Renal Proximal Convoluted Tubules During Metabolic Acidosis."
-    authors: Scott Walmsley*, Nichole Reisdorph
-    conference: American Society For Mass Spectrometry; St Louis Missouri, June 2015.
-  - paper:
-    title: "Evaluation of LCMS QTOF and AMT Technologies for the Quantitative Analysis of the Response to Metabolic Acidosis by the Proximal Convoluted Tubule Brush Border Membrane."
+    title: "Evaluation of LCMS QTOF and AMT Technologies for the Quantitative Analysis of the Response to Metabolic Acidosis by the Proximal Convoluted Tubule Brush Border Membrane"
     authors: Scott Walmsley* and Norman Curthoys
-    conference: Colorado Biological Mass Spectrometry Society Summer Meeting; Boulder Colorado, August, 2010.
+    conference: Colorado Biological Mass Spectrometry Society Summer Meeting; Boulder Colorado, August, 2010
   - paper:
-    title: "Reducing Tissue Heterogeneity for the Specific Proteomic Analysis of Proximal Convoluted Tubule Apical Membranes."
+    title: "Reducing Tissue Heterogeneity for the Specific Proteomic Analysis of Proximal Convoluted Tubule Apical Membranesv"
     authors: Scott Walmsley*, Corey Broeckling, Jessica Prenni, Norman Curthoys
-    conference: ;  American Society For Mass Spectrometry;  Philadelphia Pennsylvania, June 2009.
+    conference: American Society For Mass Spectrometry;  Philadelphia Pennsylvania, June 2009
   - paper:
-    title: "Improving the Value of Corn Proteins Via Reforming with Anaerobic Bacteria."
+    title: "Improving the Value of Corn Proteins Via Reforming with Anaerobic Bacteria"
     authors: Tim Eggeman*, Dan Verser, Shirley Hunter, Scott Walmsley
-    conference: 28th Symposium on Biotechnology for Fuels and Chemicals; Nashville Tennessee, May, 2006.
+    conference: 28th Symposium on Biotechnology for Fuels and Chemicals; Nashville Tennessee, May, 2006
   - paper:
-    title: "Cloning and characterization of a family of peritrophin-like cDNAs from the cat flea, Ctenocephalides felis."
+    title: "Cloning and characterization of a family of peritrophin-like cDNAs from the cat flea, Ctenocephalides felis"
     authors: Pat Gaines*, Scott Walmsley, Kevin Brandt, Nancy Wisnewski
-    conference: Entomological Society of America Annual Meeting; Montreal, Canada, December 3-6, 2000.
+    conference: Entomological Society of America Annual Meeting; Montreal, Canada, December 3-6, 2000
   - paper:
-    title: "Ctenocephalides felis GABA receptor subunit Rdl: Cloning and survey of the cyclodiene resistance allele in fleas."
+    title: "Ctenocephalides felis GABA receptor subunit Rdl: Cloning and survey of the cyclodiene resistance allele in fleas"
     authors: Kevin Brandt*, Pat Gaines, Scott Walmsley, Gary Silver, Nancy Wisnewski
-    conference: 2000 Entomological Society of America Annual Meeting; Montreal, Canada, December 3-6, 2000.
+    conference: 2000 Entomological Society of America Annual Meeting; Montreal, Canada, December 3-6, 2000
