@@ -1,10 +1,11 @@
 {% if site.data.skills %}
 <section class="skills-section section">
-
-  <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
+    <div class = "panel-group" id = "accordion"></div>
+  <h2 class="section-title"><i class="fa fa-rocket"></i>
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapse6">Skills &amp; Proficiency</a></h2>
 
   <div class="skillset">
-
+      <div id = "collapse6" class = "panel-collapse collapse in">
     {% for skill in site.data.skills %}
     <div class="item">
 
@@ -19,6 +20,6 @@
     {% endfor %}
 
   </div>
-
+</div>
 </section><!--//skills-section-->
 {% endif %}
