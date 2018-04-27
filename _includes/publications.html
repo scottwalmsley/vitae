@@ -1,8 +1,9 @@
 {% if site.data.publications %}
 <section class="section publications-section">
-
-  <h2 class="section-title"><i class="fa fa-file-text"></i>Publications</h2>
-
+    <div class = "panel-group" id = "accordion">
+  <h2 class="section-title"><i class="fa fa-file-text"></i>
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Publications</a></h2>
+    <div id = "collapse3" class = "panel-collapse collapse">
   {% if site.data.publications.intro %}
   <div class="intro">
       <p>{{ site.data.publications.intro }}</p>
@@ -16,6 +17,6 @@
       <div class="publication-conference">{{ publication.conference }}</div>
     </div><!--//item-->
   {% endfor %}
-
+    </div>
 </section><!--//section-->
 {% endif %}

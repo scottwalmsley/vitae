@@ -1,7 +1,12 @@
 {% if site.data.experiences %}
-<section class="section experiences-section">
-  <h2 class="section-title"><i class="fa fa-briefcase"></i>Work Experience</h2>
 
+<section class="section experiences-section">
+    <div class = "panel-group" id = "accordion">
+   
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Work Experience</a></h2>
+
+    <div id = "collapse1" class = "panel-collapse collapse">
 {% for experience in site.data.experiences %}
   <div class="item">
 
@@ -24,6 +29,7 @@
 
   </div><!--//item-->
 {% endfor %}
-
+</div>
 </section><!--//section-->
+
 {% endif %}
