@@ -15,7 +15,7 @@ style: styles-6
 
 #Profile information
 name: Scott Walmsley, PhD
-tagline: Bioinformaticist and Molecular Biologist
+tagline: Big data scientist, bioinformaticist and molecular biologist
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: "Originally a bench scientist in the field of molecular biology, I have developed skills to answer difficult questions of disease and biomarker discovery through computer code.
 My career has co-evolved with the challenges of mass spectrometry based and clinical data analysis. 
