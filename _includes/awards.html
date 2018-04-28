@@ -1,0 +1,22 @@
+{% if site.data.awards %}
+<section class="section publications-section">
+    <div class = "panel-group" id = "accordion">
+  <h2 class="section-title"><i class="fa fa-trophy"></i>
+    <a data-toggle="collapse" data-parent="#accordion" href="#collapse7">Awards</a></h2>
+    <div id = "collapse7" class = "panel-collapse collapse">
+  {% if site.data.awards.intro %}
+  <div class="intro">
+      <p>{{ site.data.awards.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for award in site.data.awards.awards %}
+    <div class="item">
+      <div class="publication-title">{{ award.title }}</div>
+      <div class="publication-authors">{{ award.authors }}</div>
+      <div class="publication-conference">{{ award.conference }}</div>
+    </div><!--//item-->
+  {% endfor %}
+    </div>
+</section><!--//section-->
+{% endif %}
